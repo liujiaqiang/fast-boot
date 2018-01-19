@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "name": "quartz.enable",
+      "type": "java.lang.Boolean",
+      "description": "quartz enable",
+      "defaultValue": true
+    },
+    {
+      "name": "quartz.cluster.scheduler.name",
+      "type": "java.lang.String",
+      "description": "quartz cluster scheduler name"
+    },
+    {
+      "name": "quartz.auto.start.up",
+      "type": "java.lang.Boolean",
+      "description": "quartz is auto start up",
+      "defaultValue": true
+    }
+  ]
+}
